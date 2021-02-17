@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "minhafrotawebreact778e5893": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
